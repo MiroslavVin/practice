@@ -1,0 +1,71 @@
+body {
+    background-color: aqua;
+    width: 1400px;
+    font-size: 150%;
+    margin: 20px 50px;
+
+}
+
+h1 {
+    border: 2px solid;
+    background-color: yellow;
+}
+
+p {
+    background-color: brown;
+    border: 3px solid;
+
+}
+
+ul {
+    background-color: chartreuse;
+    border: 3px solid;
+    /*margin: 100px;; */
+}
+
+li {
+    background-color: crimson;
+    border: 3px solid;
+
+}
+
+a {
+    background-color: black;
+    color: yellowgreen;
+    border: 3px solid;
+    text-decoration: none;
+   
+}
+
+span {
+    background-color: cornsilk;
+    border: 3px solid;
+}
+
+.container-1 {
+    background-color: grey;
+    border: 3px solid;
+
+}
+.container-2 {
+    background-color: grey;
+    border: 3px solid;
+    
+}
+.container-3 {
+    background-color: grey;
+    border: 3px solid;
+}
+.container-4 {
+    background-color: grey;
+    border: 3px solid;
+    margin-top: 50px;
+    padding-top: 30px;
+}
+
+section {
+    background-color: white;
+    border: 3px solid;
+    
+
+}
